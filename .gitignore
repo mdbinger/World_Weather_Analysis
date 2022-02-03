@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+
+# Adding additional files
+NearestRestr.ipynb
+Google_Places.ipynb
+random_numbers.ipynb
+Untitled.ipynb
+API_practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
